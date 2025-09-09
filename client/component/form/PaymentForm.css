@@ -1,0 +1,8 @@
+.flex-microform {
+  height: 20px;
+  background: #ffffff;
+  -webkit-transition: background 200ms;
+  transition: background 200ms;
+  border: none !important;
+  padding: 0 !important;
+}
